@@ -1,0 +1,3 @@
+parameters:
+	ignoreErrors:
+		- '#Property Milex\\Transifex\\Tests\\ApiConnectorTestCase::\$client \(Milex\\Transifex\\Tests\\Client\\TransifexTestClient\) does not accept class@anonymous\/tests\/Connector\/ProjectsTest.php\:196.#'
