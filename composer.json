@@ -3,7 +3,7 @@
     "description": "The Transifex API Package is a wrapper of the Transifex API available for PHP developers",
     "keywords": ["php", "transifex"],
     "homepage": "https://github.com/milexdev/Transifex-API",
-    "license": "GPL-2.0+",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "Yeprem Ghukasyan",
@@ -44,7 +44,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0.0"
+            "dev-main": "1.0.0"
         }
     }
 }
