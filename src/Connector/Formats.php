@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace Mautic\Transifex\Connector;
+namespace Milex\Transifex\Connector;
 
-use Mautic\Transifex\ApiConnector;
+use Milex\Transifex\ApiConnector;
 use Psr\Http\Message\ResponseInterface;
 
 /**

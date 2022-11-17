@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Mautic\Transifex\Exception;
+namespace Milex\Transifex\Exception;
 
 /**
  * Exception defining an invalid configuration for an API request's parameters.

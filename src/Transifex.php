@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Mautic\Transifex;
+namespace Milex\Transifex;
 
 /**
  * Base class for interacting with the Transifex API.
