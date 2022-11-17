@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace Milex\Transifex\Connector;
+namespace Mautic\Transifex\Connector;
 
-use Milex\Transifex\ApiConnector;
-use Milex\Transifex\Exception\InvalidConfigurationException;
+use Mautic\Transifex\ApiConnector;
+use Mautic\Transifex\Exception\InvalidConfigurationException;
 use Psr\Http\Message\ResponseInterface;
 
 /**

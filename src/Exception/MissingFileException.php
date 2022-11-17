@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Milex\Transifex\Exception;
+namespace Mautic\Transifex\Exception;
 
 /**
  * Exception defining missing file.

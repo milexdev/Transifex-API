@@ -1,10 +1,10 @@
 <?php declare(strict_types=1);
 
-namespace Milex\Transifex;
+namespace Mautic\Transifex;
 
-use Milex\Transifex\Exception\InvalidFileTypeException;
-use Milex\Transifex\Exception\MissingCredentialsException;
-use Milex\Transifex\Exception\MissingFileException;
+use Mautic\Transifex\Exception\InvalidFileTypeException;
+use Mautic\Transifex\Exception\MissingCredentialsException;
+use Mautic\Transifex\Exception\MissingFileException;
 use Psr\Http\Client\ClientInterface;
 use Psr\Http\Message\RequestFactoryInterface;
 use Psr\Http\Message\RequestInterface;

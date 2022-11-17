@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Milex\Transifex;
+namespace Mautic\Transifex;
 
 /**
  * Interface defining a Transifex API client.
